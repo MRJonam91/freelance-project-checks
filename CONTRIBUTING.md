@@ -1,0 +1,7 @@
+# Contributing / Contribuire
+
+Open a focused issue or pull request describing the problem, a synthetic reproducer and expected behavior. Keep the runtime dependency-free and local. Run `python -B -m unittest discover -s tests -v` and `python -B scripts/package.py` from the repository root. Add meaningful tests for changed arithmetic or validation and update user-facing documentation in Italian and English.
+
+Submit only work you have the right to contribute, with provenance for any external material. Contributions to this project are submitted under GPL-3.0-or-later. Preserve copyright and required notices. Never submit client information, secrets, paid skill packages or third-party content without compatible rights. No Contributor License Agreement or transfer of copyright is required. Maintainers may request a Developer Certificate of Origin sign-off when provenance needs clarification.
+
+Apri una issue o pull request mirata con problema, esempio sintetico e comportamento atteso. Mantieni runtime locale e senza dipendenze esterne. Esegui i due comandi sopra, aggiungi test utili quando cambi calcoli/validazione e aggiorna insieme la documentazione italiana e inglese. Invia solo materiale di cui puoi disporre, con provenienza verificabile, in GPL-3.0-or-later; preserva copyright e avvisi. Escludi dati clienti, segreti e pacchetti commerciali. Non si richiede trasferimento di copyright; un sign-off DCO può essere richiesto per chiarire la provenienza.

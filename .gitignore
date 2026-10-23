@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.test-*/
+dist/
+output/
+normalized-input.json
+calculation-details.json
+revision-costs.csv
+check-notes.md
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

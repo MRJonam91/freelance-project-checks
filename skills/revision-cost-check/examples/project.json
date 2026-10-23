@@ -1,0 +1,11 @@
+{
+  "fee": {"value": "1200", "currency": "EUR", "source": "S1"},
+  "direct_costs": {"value": "120", "currency": "EUR", "source": "S1"},
+  "actual_hours": {"value": "20", "unit": "hours", "source": "S2"},
+  "remaining_hours": {"value": "4", "unit": "hours", "source": "S2"},
+  "hours_per_round": {"value": "3", "unit": "hours", "source": "S3"},
+  "internal_hour_cost": {"value": "30", "currency": "EUR", "source": "S4"},
+  "minimum_effective_hourly": {"value": "40", "currency": "EUR", "source": "S4"},
+  "minimum_contribution": {"value": "250", "currency": "EUR", "source": "S4"},
+  "rounds": [0, 1, 2]
+}

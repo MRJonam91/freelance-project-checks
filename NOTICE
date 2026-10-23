@@ -1,0 +1,22 @@
+Freelance Project Checks 0.1.0
+Copyright (C) 2026 ManojRollo
+SPDX-License-Identifier: GPL-3.0-or-later
+
+Original code and documentation are licensed under GNU GPL version 3 or,
+at your option, any later version. See LICENSE. Distributed without warranty.
+
+The calculator derives from the same owner's original helper:
+products/revision-budget-lab/runtime/revision-budget-lab/scripts/calculate.py
+in the owner's skill-catalog workspace (Revision Budget Lab 1.1.0).
+The free edition adds short numeric check notes, duplicate-key rejection,
+portable tests, source packaging and new free skill instructions.
+No commercial SKILL.md, output contract, client-option drafts, case outputs,
+marketing media or upstream Human-First Prompts material is included.
+
+Project names and any marks remain their owners' property. The software
+license grants no trademark, endorsement or affiliation rights.
+
+Il calcolatore deriva dal helper originale dello stesso autore per
+Revision Budget Lab 1.1.0. La skill gratuita e la documentazione sono nuove.
+Codice e documentazione originali: GPL-3.0-or-later; nessuna garanzia.
+Nessun diritto aggiuntivo su marchi, affiliazione o approvazione.
